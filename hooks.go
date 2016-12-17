@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"path/filepath"
 
-	"github.com/astaxie/beego/context"
-	"github.com/astaxie/beego/logs"
-	"github.com/astaxie/beego/session"
+	"github.com/dionyself/beego/context"
+	"github.com/dionyself/beego/logs"
+	"github.com/dionyself/beego/session"
 )
 
 //

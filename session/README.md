@@ -18,7 +18,7 @@ As of now this session manager support memory, file, Redis and MySQL.
 First you must import it
 
 	import (
-		"github.com/astaxie/beego/session"
+		"github.com/dionyself/beego/session"
 	)
 
 Then in you web app init the global session manager

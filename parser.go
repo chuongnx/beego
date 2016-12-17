@@ -27,14 +27,14 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/astaxie/beego/logs"
-	"github.com/astaxie/beego/utils"
+	"github.com/dionyself/beego/logs"
+	"github.com/dionyself/beego/utils"
 )
 
 var globalRouterTemplate = `package routers
 
 import (
-	"github.com/astaxie/beego"
+	"github.com/dionyself/beego"
 )
 
 func init() {
