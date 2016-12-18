@@ -209,6 +209,7 @@ func (c *Controller) RenderBytes() ([]byte, error) {
 					continue
 				}
 				buf.Reset()
+        c.Data["SectionData"] = c.Data[sectionName+"_Data"]
 				err = ExecuteTemplate(&buf, sectionTpl, c.Data)
 				if err != nil {
 					return nil, err
