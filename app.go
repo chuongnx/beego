@@ -23,9 +23,9 @@ import (
 	"path"
 	"time"
 
-	"github.com/dionyself/beego/grace"
-	"github.com/dionyself/beego/logs"
-	"github.com/dionyself/beego/utils"
+	"github.com/chuongnx/beego/grace"
+	"github.com/chuongnx/beego/logs"
+	"github.com/chuongnx/beego/utils"
 )
 
 var (

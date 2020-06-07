@@ -7,7 +7,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/dionyself/beego/session"
+	"github.com/chuongnx/beego/session"
 	"github.com/ssdb/gossdb/ssdb"
 )
 

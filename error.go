@@ -23,8 +23,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/dionyself/beego/context"
-	"github.com/dionyself/beego/utils"
+	"github.com/chuongnx/beego/context"
+	"github.com/chuongnx/beego/utils"
 )
 
 const (

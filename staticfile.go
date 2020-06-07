@@ -26,8 +26,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/dionyself/beego/context"
-	"github.com/dionyself/beego/logs"
+	"github.com/chuongnx/beego/context"
+	"github.com/chuongnx/beego/logs"
 )
 
 var errNotStaticRequest = errors.New("request not a static file request")

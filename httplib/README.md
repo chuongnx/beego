@@ -6,7 +6,7 @@ httplib is an libs help you to curl remote url.
 ## GET
 you can use Get to crawl data.
 
-	import "github.com/dionyself/beego/httplib"
+	import "github.com/chuongnx/beego/httplib"
 	
 	str, err := httplib.Get("http://beego.me/").String()
 	if err != nil {

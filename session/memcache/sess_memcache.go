@@ -20,8 +20,8 @@
 //
 // Usage:
 // import(
-//   _ "github.com/dionyself/beego/session/memcache"
-//   "github.com/dionyself/beego/session"
+//   _ "github.com/chuongnx/beego/session/memcache"
+//   "github.com/chuongnx/beego/session"
 // )
 //
 //	func init() {
@@ -37,7 +37,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/dionyself/beego/session"
+	"github.com/chuongnx/beego/session"
 
 	"github.com/bradfitz/gomemcache/memcache"
 )

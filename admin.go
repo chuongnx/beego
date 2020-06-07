@@ -25,10 +25,10 @@ import (
 
 	"reflect"
 
-	"github.com/dionyself/beego/grace"
-	"github.com/dionyself/beego/logs"
-	"github.com/dionyself/beego/toolbox"
-	"github.com/dionyself/beego/utils"
+	"github.com/chuongnx/beego/grace"
+	"github.com/chuongnx/beego/logs"
+	"github.com/chuongnx/beego/toolbox"
+	"github.com/chuongnx/beego/utils"
 )
 
 // BeeAdminApp is the default adminApp used by admin module.

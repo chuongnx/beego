@@ -19,7 +19,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/dionyself/beego/config"
+	"github.com/chuongnx/beego/config"
 )
 
 func TestYaml(t *testing.T) {

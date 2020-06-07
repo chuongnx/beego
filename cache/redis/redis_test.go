@@ -18,7 +18,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dionyself/beego/cache"
+	"github.com/chuongnx/beego/cache"
 	"github.com/garyburd/redigo/redis"
 )
 

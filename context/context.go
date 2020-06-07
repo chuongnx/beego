@@ -15,7 +15,7 @@
 // Package context provide the context utils
 // Usage:
 //
-//	import "github.com/dionyself/beego/context"
+//	import "github.com/chuongnx/beego/context"
 //
 //	ctx := context.Context{Request:req,ResponseWriter:rw}
 //
@@ -35,7 +35,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/dionyself/beego/utils"
+	"github.com/chuongnx/beego/utils"
 )
 
 // NewContext return the Context with Input and Output

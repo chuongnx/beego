@@ -20,8 +20,8 @@
 //
 // Usage:
 // import(
-//   _ "github.com/dionyself/beego/cache/redis"
-//   "github.com/dionyself/beego/cache"
+//   _ "github.com/chuongnx/beego/cache/redis"
+//   "github.com/chuongnx/beego/cache"
 // )
 //
 //  bm, err := cache.NewCache("redis", `{"conn":"127.0.0.1:11211"}`)
@@ -37,7 +37,7 @@ import (
 
 	"github.com/garyburd/redigo/redis"
 
-	"github.com/dionyself/beego/cache"
+	"github.com/chuongnx/beego/cache"
 )
 
 var (

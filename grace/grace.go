@@ -22,7 +22,7 @@
 //	 "net/http"
 //	 "os"
 //
-//   "github.com/dionyself/beego/grace"
+//   "github.com/chuongnx/beego/grace"
 // )
 //
 //  func handler(w http.ResponseWriter, r *http.Request) {

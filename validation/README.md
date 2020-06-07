@@ -18,7 +18,7 @@ Test:
 Direct Use:
 
 	import (
-		"github.com/dionyself/beego/validation"
+		"github.com/chuongnx/beego/validation"
 		"log"
 	)
 
@@ -49,7 +49,7 @@ Direct Use:
 Struct Tag Use:
 
 	import (
-		"github.com/dionyself/beego/validation"
+		"github.com/chuongnx/beego/validation"
 	)
 
 	// validation function follow with "valid" tag
@@ -78,7 +78,7 @@ Struct Tag Use:
 Use custom function:
 
 	import (
-		"github.com/dionyself/beego/validation"
+		"github.com/chuongnx/beego/validation"
 	)
 
 	type user struct {

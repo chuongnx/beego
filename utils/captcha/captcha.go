@@ -19,9 +19,9 @@
 // package controllers
 //
 // import (
-// 	"github.com/dionyself/beego"
-// 	"github.com/dionyself/beego/cache"
-// 	"github.com/dionyself/beego/utils/captcha"
+// 	"github.com/chuongnx/beego"
+// 	"github.com/chuongnx/beego/cache"
+// 	"github.com/chuongnx/beego/utils/captcha"
 // )
 //
 // var cpt *captcha.Captcha
@@ -66,11 +66,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/dionyself/beego"
-	"github.com/dionyself/beego/cache"
-	"github.com/dionyself/beego/context"
-	"github.com/dionyself/beego/logs"
-	"github.com/dionyself/beego/utils"
+	"github.com/chuongnx/beego"
+	"github.com/chuongnx/beego/cache"
+	"github.com/chuongnx/beego/context"
+	"github.com/chuongnx/beego/logs"
+	"github.com/chuongnx/beego/utils"
 )
 
 var (

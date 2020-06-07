@@ -14,7 +14,7 @@
 
 package beego
 
-import "github.com/dionyself/beego/context"
+import "github.com/chuongnx/beego/context"
 
 // FilterFunc defines a filter function which is invoked before the controller handler is executed.
 type FilterFunc func(*context.Context)
